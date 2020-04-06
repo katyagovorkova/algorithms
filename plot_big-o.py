@@ -69,4 +69,4 @@ plt.ylabel('number of operations')
 plt.grid()
 plt.legend()
 
-plt.savefig('big-o.pdf')
+plt.savefig('big-o.png')

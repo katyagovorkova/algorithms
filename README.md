@@ -1,5 +1,5 @@
 # Algorithms and Data structures 📚
-This repository contains my steps in learning CS. 
+This repository contains my steps in learning CS.
 To understand the basics, I algorithms and data structures from scratch.
 
 Here is the list of what I plan to do:
@@ -16,4 +16,4 @@ Algorithms
 - [ ] Quicksort
 
 Each algorithms has its runtime complexity, here are the typical ones
-![big o](big-o.pdf)
+![big-o](big-o.png)
