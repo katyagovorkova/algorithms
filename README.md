@@ -1,21 +1,18 @@
 # Algorithms and Data structures 📚
-
-This repository contains my steps in learning CS. To understand the basics, I
-algorithms and data structures from scratch.
+This repository contains my steps in learning CS. 
+To understand the basics, I algorithms and data structures from scratch.
 
 Here is the list of what I plan to do:
 
 Data structures
-[ ] Array
-[ ] Linked list
-[ ] B-Tree
+- [x] Array
+- [x] Linked list
+- [x] B-Tree
 
 Algorithms
-[ ] Binary search
-[ ] Bubble sort
-[ ] Insertion sort
-[ ] Quicksort
+- [x] Binary search
+- [x] Bubble sort
+- [x] Insertion sort
+- [x] Quicksort
 
-Each algorithms has its runtime complexity, here are the typical ones:
-
-[Contribution guidelines for this project](big-o.pdf)
+Each algorithms has its runtime complexity, here are the typical ones
