@@ -10,7 +10,7 @@ Here is the list of what I plan to do:
 - [ ] B-Tree
 
 **Searching algorithms**
-- [x] [Binary search](searching/binary_search.py) ⏱~O(log(n)) 💾~
+- [x] [Binary search](searching/binary_search.py) ⏱\~O(log(n)) 💾\~
 
 **Sorting algorithms**
 - [ ] Insertion sort
