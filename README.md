@@ -9,11 +9,15 @@ Here is the list of what I plan to do:
 - [ ] Linked list
 - [ ] B-Tree
 
-**Algorithms**
-- [x] [Binary search](simple_algorithms/binary_search.py) t~O(log(n))
+**Searching algorithms**
+- [x] [Binary search](searching/binary_search.py) t~O(log(n))
+
+**Sorting algorithms**
 - [ ] Bubble sort
 - [ ] Insertion sort
+- [ ] Selection sort
 - [ ] Quicksort
+- [ ] Mergesort
 
 Each algorithms has its runtime complexity, here are the typical ones
 ![big-o](big-o.png)

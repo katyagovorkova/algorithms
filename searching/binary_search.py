@@ -2,6 +2,8 @@ def binary_search(m, sorted_list):
     """
     Return first found position of the number m in sorted list sorted_list.
     If number is not in the list, returns None.
+    Binary search splits the list in two checking if the middle element is equal
+    smaller or larger than the searched element.
     """
     print('Looking for {} in {}...'.format(m, sorted_list))
 
@@ -24,11 +26,9 @@ def binary_search(m, sorted_list):
 
 
 if __name__=='__main__':
-    # test
-    binary_search(5, [])
-    binary_search(5, [5])
-    binary_search(5, list(range(6)))
-    binary_search(5, list(range(10)))
-    binary_search(5, [0,1,2,3,6,7])
-    binary_search(5, [5,5,5,5,5])
-    binary_search(59, list(range(100)))
+    # tests
+    binary_search(0, [])
+    binary_search(0, [0])
+    binary_search(0, [0,0,0,0,0])
+    binary_search(0, list(range(10)))
+    binary_search(99, list(range(100)))
