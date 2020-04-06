@@ -9,16 +9,18 @@ Here is the list of what I plan to do:
 - [ ] Linked list
 - [ ] B-Tree
 
-**Searching algorithms**
-- [x] [Binary search](searching/binary_search.py) ⏱ O(log(n))  💾 O(1)
+| Searching                                   |     ⏱    |  💾  |
+|:-------------------------------------------:|:---------:|:----:|
+| [Binary search](searching/binary_search.py) | O(log(n)) | O(1) |
 
-**Sorting algorithms**
-- [ ] Insertion sort
-- [ ] Selection sort
-- [ ] Bubble sort
-- [ ] Counting sort
-- [ ] Quicksort
-- [ ] Mergesort
+| Sorting                                     |     ⏱    |  💾  |
+|:-------------------------------------------:|:---------:|:----:|
+| Insertion sort |  |  |
+| Selection sort |  |  |
+| Bubble sort |  | |
+| Counting sort |   |   |
+| Quicksort |   |   |
+| Mergesort |   |   |
 
-Each algorithms has its runtime and space complexity, here are the typical ones
+Each algorithms has its runtime ( ⏱) and space ( 💾) complexity, here are the typical ones
 ![big-o](big-o.png)
