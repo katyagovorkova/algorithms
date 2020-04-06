@@ -11,7 +11,7 @@ Data structures
 - [ ] B-Tree
 
 Algorithms
-- [x] Binary search
+- [x] **Binary search** t~O(log(n))
 - [ ] Bubble sort
 - [ ] Insertion sort
 - [ ] Quicksort
