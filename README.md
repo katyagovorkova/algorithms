@@ -20,5 +20,5 @@ Here is the list of what I plan to do:
 - [ ] Quicksort
 - [ ] Mergesort
 
-Each algorithms has its runtime complexity, here are the typical ones
+Each algorithms has its runtime and space complexity, here are the typical ones
 ![big-o](big-o.png)
