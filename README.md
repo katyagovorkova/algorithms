@@ -11,7 +11,7 @@ Data structures
 - [ ] B-Tree
 
 Algorithms
-- [x] **Binary search** t~O(log(n))
+- [x] [**Binary search**](simple_algorithms/binary_search.py) t~O(log(n))
 - [ ] Bubble sort
 - [ ] Insertion sort
 - [ ] Quicksort
