@@ -16,3 +16,6 @@ Algorithms
 - [ ] Quicksort
 
 Each algorithms has its runtime complexity, here are the typical ones
+
+![big-o](/big-o.pdf)
+lsp
