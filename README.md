@@ -9,11 +9,11 @@ Here is the list of what I plan to do:
 - [ ] Linked list
 - [ ] B-Tree
 
-| Searching                                   |     ⏱    |  💾  |
+| Searching algorithms                        |     ⏱    |  💾  |
 |:-------------------------------------------:|:---------:|:----:|
 | [Binary search](searching/binary_search.py) | O(log(n)) | O(1) |
 
-| Sorting                                     |     ⏱    |  💾  |
+| Sorting algorithms                          |     ⏱    |  💾  |
 |:-------------------------------------------:|:---------:|:----:|
 | Insertion sort |  |  |
 | Selection sort |  |  |
