@@ -10,12 +10,13 @@ Here is the list of what I plan to do:
 - [ ] B-Tree
 
 **Searching algorithms**
-- [x] [Binary search](searching/binary_search.py) t~O(log(n))
+- [x] [Binary search](searching/binary_search.py) ⏱~O(log(n)) 💾~
 
 **Sorting algorithms**
-- [ ] Bubble sort
 - [ ] Insertion sort
 - [ ] Selection sort
+- [ ] Bubble sort
+- [ ] Counting sort
 - [ ] Quicksort
 - [ ] Mergesort
 
