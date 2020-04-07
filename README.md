@@ -1,8 +1,5 @@
 # Algorithms and Data structures 📚
-This repository contains my steps in learning CS.
-
-To understand the basics, I code algorithms and data structures from scratch.
-Here is the list of what I plan to do:
+This repository contains my steps in learning CS. To understand the basics, I code algorithms and data structures from scratch.
 
 **Data structures**
 - [ ] Array
