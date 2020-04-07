@@ -19,5 +19,5 @@ This repository contains my steps in learning CS. To understand the basics, I co
 | Quicksort |   |   |
 | Mergesort |   |   |
 
-Each algorithms has its runtime ( ⏱) and space ( 💾) complexity, here are the typical ones
+Each algorithms has its runtime (⏱) and space (💾) complexity, here are the typical ones
 ![big-o](big-o.png)
