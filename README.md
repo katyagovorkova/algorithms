@@ -10,14 +10,14 @@ This repository contains my steps in learning CS. To understand the basics, I co
 |:-------------------------------------------:|:---------:|:----:|
 | [Binary search](searching/binary_search.py) | O(log(n)) | O(1) |
 
-| Sorting algorithms                          |     ⏱           |  💾  |
-|:-------------------------------------------:|:----------------:|:----:|
-| [Insertion sort](sorting/insertion_sort.py) | O(n<sup>2</sup>) | O(1) |
-| [Selection sort](sorting/selection_sort.py) | O(n<sup>2</sup>) | O(1) |
-| [Bubble sort](sorting/bubble_sort.py)       | O(n<sup>2</sup>) | O(1) |
-| [Counting sort](sorting/counting_sort.py)   | O(n+k)           | O(k) |
-| [Quicksort](sorting/quicksort.py)           |   |   |
-| [Mergesort](sorting/mergesort.py)           |   |   |
+| Sorting algorithms                          |     ⏱           |  💾       |
+|:-------------------------------------------:|:----------------:|:---------:|
+| [Insertion sort](sorting/insertion_sort.py) | O(n<sup>2</sup>) | O(1)      |
+| [Selection sort](sorting/selection_sort.py) | O(n<sup>2</sup>) | O(1)      |
+| [Bubble sort](sorting/bubble_sort.py)       | O(n<sup>2</sup>) | O(1)      |
+| [Counting sort](sorting/counting_sort.py)   | O(n+k)           | O(k)      |
+| [Mergesort](sorting/mergesort.py)           | O(nlog(n))       | O(n)      |
+| [Quicksort](sorting/quicksort.py)           | O(nlog(n))       | O(log(n)) |
 
 Each algorithms has its runtime ⏱ and space 💾 complexity, here are the typical ones
 ![big-o](big-o.png)
