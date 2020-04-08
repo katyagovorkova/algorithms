@@ -6,7 +6,7 @@ This repository contains my steps in learning CS. To understand the basics, I co
 - [ ] Linked list
 - [ ] B-Tree
 
-| Searching algorithms                        |     ⏱    |  💾  |
+| Searching algorithms                        |   ⏱      |  💾  |
 |:-------------------------------------------:|:---------:|:----:|
 | [Binary search](searching/binary_search.py) | O(log(n)) | O(1) |
 
@@ -15,7 +15,7 @@ This repository contains my steps in learning CS. To understand the basics, I co
 | [Insertion sort](sorting/insertion_sort.py) | O(n<sup>2</sup>) | O(1) |
 | [Selection sort](sorting/selection_sort.py) | O(n<sup>2</sup>) | O(1) |
 | [Bubble sort](sorting/bubble_sort.py)       | O(n<sup>2</sup>) | O(1) |
-| [Counting sort](sorting/counting_sort.py)   |   |   |
+| [Counting sort](sorting/counting_sort.py)   | O(n+k)           | O(k) |
 | [Quicksort](sorting/quicksort.py)           |   |   |
 | [Mergesort](sorting/mergesort.py)           |   |   |
 
