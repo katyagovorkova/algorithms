@@ -10,11 +10,11 @@ This repository contains my steps in learning CS. To understand the basics, I co
 |:-------------------------------------------:|:---------:|:----:|
 | [Binary search](searching/binary_search.py) | O(log(n)) | O(1) |
 
-| Sorting algorithms                          |     ⏱    |  💾  |
-|:-------------------------------------------:|:---------:|:----:|
-| [Insertion sort](sorting/insertion_sort.py) | O(n`$^2$`)| O(1) |
-| [Selection sort](sorting/selection_sort.py) | O(n`$^2$`)| O(1) |
-| [Bubble sort](sorting/bubble_sort.py)       | O(n`$^2$`)| O(1) |
+| Sorting algorithms                          |     ⏱           |  💾  |
+|:-------------------------------------------:|:----------------:|:----:|
+| [Insertion sort](sorting/insertion_sort.py) | O(n<sup>2</sup>) | O(1) |
+| [Selection sort](sorting/selection_sort.py) | O(n<sup>2</sup>) | O(1) |
+| [Bubble sort](sorting/bubble_sort.py)       | O(n<sup>2</sup>) | O(1) |
 | [Counting sort](sorting/counting_sort.py)   |   |   |
 | [Quicksort](sorting/quicksort.py)           |   |   |
 | [Mergesort](sorting/mergesort.py)           |   |   |
