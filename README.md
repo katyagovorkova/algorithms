@@ -12,12 +12,12 @@ This repository contains my steps in learning CS. To understand the basics, I co
 
 | Sorting algorithms                          |     ⏱    |  💾  |
 |:-------------------------------------------:|:---------:|:----:|
-| Insertion sort |  |  |
-| Selection sort |  |  |
-| Bubble sort |  | |
-| Counting sort |   |   |
-| Quicksort |   |   |
-| Mergesort |   |   |
+| [Insertion sort](sorting/insertion_sort.py) | O(n`$^2$`)| O(1) |
+| [Selection sort](sorting/selection_sort.py) | O(n`$^2$`)| O(1) |
+| [Bubble sort](sorting/bubble_sort.py)       | O(n`$^2$`)| O(1) |
+| [Counting sort](sorting/counting_sort.py)   |   |   |
+| [Quicksort](sorting/quicksort.py)           |   |   |
+| [Mergesort](sorting/mergesort.py)           |   |   |
 
 Each algorithms has its runtime ⏱ and space 💾 complexity, here are the typical ones
 ![big-o](big-o.png)
