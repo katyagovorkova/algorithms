@@ -4,7 +4,8 @@ This repository contains my steps in learning CS. To understand the basics, I co
 **Data structures**
 - [ ] Array
 - [ ] Linked list
-- [ ] B-Tree
+- [ ] Binary Trees
+- [ ] ...
 
 | Searching algorithms                        |   ⏱      |  💾  |
 |:-------------------------------------------:|:---------:|:----:|
