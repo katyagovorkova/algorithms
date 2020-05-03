@@ -5,7 +5,7 @@ This repository contains my steps in learning CS. To understand the basics, I co
 - [ ] Array
 - [ ] Linked list
 - [ ] Binary Trees
-- [ ] ...
+- [ ] Heap
 
 | Searching algorithms                        |   ⏱      |  💾  |
 |:-------------------------------------------:|:---------:|:----:|
