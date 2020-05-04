@@ -5,6 +5,8 @@ This repository contains my steps in learning CS. To understand the basics, I co
 - [ ] Linked list
 - [ ] Array
 - [ ] B-Tree
+- [ ] Binary Trees
+- [ ] Heap
 
 | Data structures                              |
 |:--------------------------------------------:|
