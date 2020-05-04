@@ -2,9 +2,13 @@
 This repository contains my steps in learning CS. To understand the basics, I code algorithms and data structures from scratch.
 
 **Data structures**
-- [ ] Array
 - [ ] Linked list
+- [ ] Array
 - [ ] B-Tree
+
+| Data structures                              |
+|:--------------------------------------------:|
+| [Linked list](data_structures/linked_list.py)|
 
 | Searching algorithms                        |   ⏱      |  💾  |
 |:-------------------------------------------:|:---------:|:----:|
